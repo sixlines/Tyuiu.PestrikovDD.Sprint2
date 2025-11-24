@@ -27,6 +27,11 @@
   <Folder Name="/Task5/">
     <Project Path="Tyuiu.PestrikovDD.Sprint2.Task5V11.Lib/Tyuiu.PestrikovDD.Sprint2.Task5V11.Lib.csproj" Id="e70c53c8-ff2d-4ee7-94eb-59cf4edf8385" />
     <Project Path="Tyuiu.PestrikovDD.Sprint2.Task5V11.Test/Tyuiu.PestrikovDD.Sprint2.Task5V11.Test.csproj" Id="8c7d1cc7-b528-4caa-8046-116dbd248435" />
-    <Project Path="Tyuiu.PestrikovDD.Sprint2.Task5V11/Tyuiu.PestrikovDD.Sprint2.Task5V11.csproj" Id="697c9cd4-7b7b-4fd1-aa8a-694c3eb783af" />
+    <Project Path="Tyuiu.PestrikovDD.Sprint2.Task5V11/Tyuiu.PestrikovDD.Sprint2.Task5.V11.csproj" Id="697c9cd4-7b7b-4fd1-aa8a-694c3eb783af" />
+  </Folder>
+  <Folder Name="/Task6/">
+    <Project Path="Tyuiu.PestrikovDD.Sprint2.Task5.V14.Lib/Tyuiu.PestrikovDD.Sprint2.Task6.V14.Lib.csproj" Id="75c557f9-cd64-420d-9662-2638a2d0d1b8" />
+    <Project Path="Tyuiu.PestrikovDD.Sprint2.Task5.V14.Test/Tyuiu.PestrikovDD.Sprint2.Task6.V14.Test.csproj" Id="cffd8648-87ac-43c7-9509-6c13a4cffef8" />
+    <Project Path="Tyuiu.PestrikovDD.Sprint2.Task5.V14/Tyuiu.PestrikovDD.Sprint2.Task6.V14.csproj" Id="01ca7162-8ef7-4f00-8fde-51d5d119e432" />
   </Folder>
 </Solution>
