@@ -11,8 +11,7 @@ namespace Tyuiu.PestrikovDD.Sprint2.Task1.V17
             Console.WriteLine("* Тема: Логические операции                                               *");
             Console.WriteLine("* Задание #1                                                              *");
             Console.WriteLine("* Вариант #17                                                             *");
-            Console.WriteLine("* Выполнил: Пестриков Данила Дмитриевич | ИСТНБ-25-1    " +
-                "                  *");
+            Console.WriteLine("* Выполнил: Пестриков Данила Дмитриевич | ИСТНБ-25-1"                     *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
             Console.WriteLine("* Написать программу из операций сравнений (==, !=, <, >, <=, >=,         *");
