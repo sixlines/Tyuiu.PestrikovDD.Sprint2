@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/Task0/">
+    <Project Path="Tyuiu.PestrikovDD.Sprint1.Task0.V12.Lib/Tyuiu.PestrikovDD.Sprint2.Task0.V12.Lib.csproj" Id="8a3da550-373b-4ea4-ab4f-03f43a8e500c" />
+    <Project Path="Tyuiu.PestrikovDD.Sprint1.Task0.V12.Test/Tyuiu.PestrikovDD.Sprint2.Task0.V12.Test.csproj" Id="d54926cd-2fd2-48cc-aa30-a8cab0b985d3" />
+    <Project Path="Tyuiu.PestrikovDD.Sprint1.Task0.V12/Tyuiu.PestrikovDD.Sprint2.Task0.V12.csproj" Id="8d1ed14e-8d60-4345-ab44-e70d4bf36b36" />
+  </Folder>
+  <Folder Name="/Task1/">
+    <Project Path="Tyuiu.PestrikovDD.Sprint2.Task1.V17.Lib/Tyuiu.PestrikovDD.Sprint2.Task1.V17.Lib.csproj" Id="6fa3e98b-7968-4ca2-ac53-cc3e950da4b0" />
+    <Project Path="Tyuiu.PestrikovDD.Sprint2.Task1.V17.Test/Tyuiu.PestrikovDD.Sprint2.Task1.V17.Test.csproj" Id="e6160f2b-25cb-4cbc-897f-329a26b1e57a" />
+    <Project Path="Tyuiu.PestrikovDD.Sprint2.Task1.V17/Tyuiu.PestrikovDD.Sprint2.Task1.V17.csproj" Id="6f62a347-d02d-46b4-8653-11b13f4f2192" />
+  </Folder>
+</Solution>
